@@ -64,10 +64,6 @@
   color: black;
 }
 
-.resume i {
-  color: black;
-}
-
 .angellist {
   color: grey;
 }
@@ -96,10 +92,6 @@
 
 .resume:hover {
   background-color: black;
-}
-
-.resume:hover i {
-  background-color: white;
 }
 
 /* Buttons - Read Me, Contact Us */
