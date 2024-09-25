@@ -61,7 +61,7 @@
 }
 
 .resume {
-  color: #0077b5;
+  color: black;
 }
 
 .angellist {
@@ -74,11 +74,11 @@
 }
 
 .linkedin:hover {
-  background-color: white ;
+  background-color: black ;
 }
 
 .linkedin:visited {
-  background-color: white; /* New color after click */
+  background-color: white;
   color: black;
 }
 
