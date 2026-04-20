@@ -533,6 +533,11 @@ a.hoverline:hover {
   height: 240px;
 }
 
+#projects .card.medium .card-content {
+  height: auto;
+  overflow: visible;
+}
+
 .card-action a.btn-floating {
   margin-bottom: 0;
 }
@@ -714,14 +719,4 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
-}
-
-/* Increase overall card height */
-#projects .card.medium {
-  height: 430px;
-}
-
-/* Optionally shrink the image area to give content more room */
-#projects .card.medium .card-image {
-  height: 200px;
 }
